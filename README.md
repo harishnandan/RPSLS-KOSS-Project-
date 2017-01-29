@@ -24,3 +24,6 @@ Developments that can be done in this code:-<br />
 4.) The game can be made for two players.<br />
 5.) New members can be added.<br />
 6.) The game can be made a bit a difficult by using the previous data of the game(making the computer a bit experienced). Eg- Suppose the responses of any user are R,P,P,S,L,R,R then the computer can guess the next probable move of the player by using the data from previous users playing the same responses. If the probability is high then the computer is likely to respond a counter move.<br />
+
+# rpsls.c readme:-
+This code in c does not use any GUI but has included the dual player and scorecard features. 
